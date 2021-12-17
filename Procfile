@@ -1,0 +1,1 @@
+web: python predict_with_arg.py
